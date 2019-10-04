@@ -12,6 +12,7 @@
     "sfdcLoginUrl": "https://login.salesforce.com",
     "sourceApiVersion": "46.0",
     "packageAliases": {
-        "demopack": "0Ho2o0000004CG4CAM"
+        "demopack": "0Ho2o0000004CG4CAM",
+        "demopack@0.1.0-1": "04t2o000001IzbYAAS"
     }
 }
