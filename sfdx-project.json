@@ -2,9 +2,9 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "package": "dreamhouse",
+            "package": "kotiki",
             "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
+            "versionNumber": "1.1.0.NEXT",
             "default": true
         }
     ],
@@ -14,7 +14,8 @@
     "packageAliases": {
         "demopack": "0Ho2o0000004CG4CAM",
         "demopack@0.1.0-1": "04t2o000001IzbYAAS",
-        "dreamhouse": "0Ho2o0000004CGOCA2",
-        "dreamhouse@0.1.0-1": "04t2o000001IzcCAAS"
+        "kotiki": "0Ho2o000000004rCAA",
+        "kotiki@0.1.0-1": "04t2o000001819RAAQ",
+        "kotiki@1.1.0-1": "04t2o000001819WAAQ"
     }
 }
