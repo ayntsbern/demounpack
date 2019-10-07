@@ -35,7 +35,7 @@ It’s normal for the package version creation process to take several minutes.
 
 ##### 6) Use the package version alias to install the package version in the scratch org that you created earlier
 ```
-sfdx force:package:install --wait 10 --publishwait 10 --package dreamhouse@1.0.0-1 -k test1234 -r -u MyScratchOrg
+sfdx force:package:install --wait 10 --publishwait 10 --package dreamhouse@0.1.0-1 -k test1234 -r -u MyScratchOrg
 ```
 It can take several minutes for a newly created package version to be available in the scratch org. The installation begins once the package version is available.
 
