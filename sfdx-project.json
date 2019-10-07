@@ -2,10 +2,10 @@
     "packageDirectories": [
         {
             "path": "force-app",
-            "default": true,
-            "package": "demopack",
+            "package": "dreamhouse",
             "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
         }
     ],
     "namespace": "",
@@ -13,6 +13,8 @@
     "sourceApiVersion": "46.0",
     "packageAliases": {
         "demopack": "0Ho2o0000004CG4CAM",
-        "demopack@0.1.0-1": "04t2o000001IzbYAAS"
+        "demopack@0.1.0-1": "04t2o000001IzbYAAS",
+        "dreamhouse": "0Ho2o0000004CGOCA2",
+        "dreamhouse@0.1.0-1": "04t2o000001IzcCAAS"
     }
 }
